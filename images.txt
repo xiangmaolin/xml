@@ -6,3 +6,7 @@ zabbix/zabbix-agent:centos-7.4.10
 # 其他常用基础镜像
 mysql:8.0
 redis:7.0-alpine
+
+# postgres:15.14
+postgres:15.14
+
