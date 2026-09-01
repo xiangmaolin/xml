@@ -4,5 +4,4 @@ zabbix/zabbix-web-nginx-mysql:centos-7.4.10
 zabbix/zabbix-agent:centos-7.4.10
 
 # 其他常用基础镜像
-
 redis:7.0-alpine
