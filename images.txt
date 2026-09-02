@@ -18,6 +18,9 @@
 #registry.aliyuncs.com/google_containers/pause:3.9
 
 # nginx
-nginx:latest
-busybox:latest
-kubernetesui/metrics-scraperv1.0.8
+#nginx:latest
+#busybox:latest
+#kubernetesui/metrics-scraperv1.0.8
+
+# nacos注册中心
+nacos/nacos-server:v3.1.0
