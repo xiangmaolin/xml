@@ -23,4 +23,7 @@
 #kubernetesui/metrics-scraperv1.0.8
 
 # nacos注册中心
-nacos/nacos-server:v3.1.0
+#nacos/nacos-server:v3.1.0
+
+# mysql
+mysql:8.4.5
