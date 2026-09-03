@@ -33,7 +33,7 @@
 #milvusdb/milvus:v2.6.21
 #opensearchproject/opensearch:3.8.0
 
-#linux-desk:v1.0
+linux-desk:v1.0
 
 zabbix-web-nginx-mysql:centos-5.2.4
 zabbix-agent:centos-5.2.4
