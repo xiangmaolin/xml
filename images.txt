@@ -26,7 +26,7 @@
 #nacos/nacos-server:v3.1.0
 
 # mysql
-#mysql:8.4.5
+mysql:5.7
 
 #getmeili/meilisearch:v1.13.3
 #rabbitmq:3.13.7-management
