@@ -35,6 +35,8 @@
 
 #linux-desk:v1.0
 
-zabbix/zabbix-web-nginx-mysql:centos-5.2.4
-zabbix/zabbix-agent:centos-5.2.4
-zabbix/zabbix-agent2:latest
+#zabbix/zabbix-web-nginx-mysql:centos-5.2.4
+#zabbix/zabbix-agent:centos-5.2.4
+#zabbix/zabbix-agent2:latest
+
+nginx-proxy-manager:latest
