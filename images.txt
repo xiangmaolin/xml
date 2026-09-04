@@ -26,7 +26,7 @@
 #nacos/nacos-server:v3.1.0
 
 # mysql
-mysql:5.7
+#mysql:5.7
 
 #getmeili/meilisearch:v1.13.3
 #rabbitmq:3.13.7-management
@@ -41,4 +41,7 @@ mysql:5.7
 
 #nginx-proxy-manager:latest
 
-rancher/local-path-provisioner:v0.0.26
+#rancher/local-path-provisioner:v0.0.26
+
+# 向量数据库
+milvusdb/milvus:v2.3.5
