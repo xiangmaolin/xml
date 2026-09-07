@@ -50,4 +50,4 @@
 #ghcr.io/openai/codex-universal:latest
 
 # Hermes镜像
-hermes-agent:latest
+nousresearch/hermes-agent:latest
