@@ -46,4 +46,8 @@
 # 向量数据库
 #milvusdb/milvus:v2.3.5
 
-ghcr.io/openai/codex-universal:latest
+# codex镜像
+#ghcr.io/openai/codex-universal:latest
+
+# Hermes镜像
+docker.xuanyuan.run/nousresearch/hermes-agent:latest
