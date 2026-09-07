@@ -44,4 +44,6 @@
 #rancher/local-path-provisioner:v0.0.26
 
 # 向量数据库
-milvusdb/milvus:v2.3.5
+#milvusdb/milvus:v2.3.5
+
+ghcr.io/openai/codex-universal:latest
