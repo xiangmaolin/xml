@@ -50,4 +50,6 @@
 #ghcr.io/openai/codex-universal:latest
 
 # Hermes镜像
-nousresearch/hermes-agent:latest
+# nousresearch/hermes-agent:latest
+
+moby/buildkit:latest
