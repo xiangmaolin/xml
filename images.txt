@@ -52,4 +52,7 @@
 # Hermes镜像
 # nousresearch/hermes-agent:latest
 
-moby/buildkit:latest
+# moby/buildkit:latest
+
+python:3.12-slim
+uv:latest
