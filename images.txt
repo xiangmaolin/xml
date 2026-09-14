@@ -55,4 +55,7 @@
 # moby/buildkit:latest
 
 # python:3.12-slim
-ghcr.io/astral-sh/uv:latest
+#ghcr.io/astral-sh/uv:latest
+
+deepseek-harness:latest
+node:24-trixie
