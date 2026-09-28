@@ -60,4 +60,6 @@
 #ghcr.io/simonqvq/deepseek-harness:latest
 #node:24-trixie
 
-nousresearch/hermes-agent:latest
+#nousresearch/hermes-agent:latest
+
+docker.m.daocloud.io/nacos/nacos-server:v2.3.2
