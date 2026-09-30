@@ -64,4 +64,6 @@
 
 #docker.m.daocloud.io/nacos/nacos-server:v2.3.2
 
-nacos-registry.cn-hangzhou.cr.aliyuncs.com/nacos/nacos-server:v3.1.0
+#nacos-registry.cn-hangzhou.cr.aliyuncs.com/nacos/nacos-server:v3.1.0
+
+rustfs/rustfs:1.0.0-rc.2
