@@ -66,4 +66,6 @@
 
 #nacos-registry.cn-hangzhou.cr.aliyuncs.com/nacos/nacos-server:v3.1.0
 
-rustfs/rustfs:1.0.0-rc.2
+# rustfs/rustfs:1.0.0-rc.2
+
+vllm/vllm-openai:v0.20.1
