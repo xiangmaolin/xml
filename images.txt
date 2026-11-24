@@ -71,17 +71,22 @@
 # vllm/vllm-openai:v0.20.1
 
 # Dify
-busybox:latest                                                                    
-redis:6-alpine                                                                    
-langgenius/dify-agent-local-sandbox:1.17.1                                       
-nginx:latest                                                                       
-swr.cn-east-3.myhuaweicloud.com/kubesre/docker.io/semitechnologies/weaviate:1.39.2 
-langgenius/dify-plugin-daemon:0.6.10-local                                         
-langgenius/dify-agent-backend:1.17.1                                               
-langgenius/dify-web:1.17.1                                                         
-langgenius/dify-api:1.17.1                                                        
-ubuntu/squid:latest                                                                
-postgres:15-alpine                                                                 
-langgenius/dify-sandbox:0.2.15    
+#busybox:latest                                                                    
+#redis:6-alpine                                                                    
+#langgenius/dify-agent-local-sandbox:1.17.1                                       
+#nginx:latest                                                                       
+#swr.cn-east-3.myhuaweicloud.com/kubesre/docker.io/semitechnologies/weaviate:1.39.2 
+#langgenius/dify-plugin-daemon:0.6.10-local                                         
+#langgenius/dify-agent-backend:1.17.1                                               
+#langgenius/dify-web:1.17.1                                                         
+#langgenius/dify-api:1.17.1                                                        
+#ubuntu/squid:latest                                                                
+#postgres:15-alpine                                                                 
+#langgenius/dify-sandbox:0.2.15    
 
-
+# 监控
+prom/prometheus:v2.53.0
+grafana/grafana:11.2.0
+prom/node-exporter:v1.8.2
+prom/mysqld-exporter:v0.15.1
+oliver006/redis_exporter:v1.62.0
